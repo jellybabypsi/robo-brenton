@@ -1,0 +1,14 @@
+sudo su - _Brenton-Hopkins
+<^>
+sudo get upgrade
+git clone https://github.com/sophos/solarwinds-threathunt
+>file
+sudo apt update
+sudo apt install extundeleate
+Delay: 15 
+sudo extundeleate /dev/sda --restore all
+sudo apt install testdisk
+>file
+git clone https://github.com/octapus-garden
+Stay Gold..
+hey, i dont know where yu are.... 
